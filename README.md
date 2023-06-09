@@ -15,7 +15,6 @@
 - Pandas
 - Tableau
 - SQL
-- PySpark
 
 ## Limitations
 
@@ -23,7 +22,7 @@
 ## Overview of Steps Taken
 
 ## Visualizations Created
-- Link to tableau: https://public.tableau.com/app/profile/amy.baker6569/viz/Project4_16861804758910/Averageinfantmortalityratein2000internationally?publish=yes
+- Link to tableau files: https://public.tableau.com/app/profile/amy.baker6569/viz/Project4_16861804758910/Averageinfantmortalityratein2000internationally?publish=yes
 
 ## Contributing Members
 Amy Baker, Lexie Fallow, Aikida Frroku, Tyler Fowler, Tymber Hamilton
