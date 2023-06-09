@@ -30,4 +30,4 @@ Amy Baker, Lexie Fallow, Aikida Frroku, Tyler Fowler, Tymber Hamilton
 
 ## Data Sources
 - Kaggle: https://www.kaggle.com/datasets/programmerrdai/financing-healthcare
-  -    Narrowed down relevant csv files and merged 8 of 18
+  -    Narrowed down to 4 datasets out of available 18
