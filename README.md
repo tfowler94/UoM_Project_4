@@ -25,7 +25,7 @@
 - Link to tableau files: https://public.tableau.com/app/profile/amy.baker6569/viz/Project4_16861804758910/Averageinfantmortalityratein2000internationally?publish=yes
 
 ## Contributing Members
-Amy Baker, Lexie Fallow, Aikida Frroku, Tyler Fowler, Tymber Hamilton
+Amy Baker, Lexie Fallow, Alkida Frroku, Tyler Fowler, Tymber Hamilton
 
 ## Data Sources
 - Kaggle: https://www.kaggle.com/datasets/programmerrdai/financing-healthcare
