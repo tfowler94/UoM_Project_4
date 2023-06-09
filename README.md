@@ -22,7 +22,8 @@ Inconsistencies in some of the yearly data by country. Not all countries had dat
 
 ## Overview of Steps Taken
 - Preprocessing the Data
-   - Cleaned the data by dropping any null values and unnecessary columns from the original datasets
+   - Dropped any null values and unnecessary columns from the original datasets
+   - Consolidated the timeframe to have more consistent data by country
    - Using SQL, creating tables for each dataset and joining all tables together to use for modeling
 
 - Modeling/Optimizing the Data 
