@@ -32,7 +32,7 @@ Inconsistencies in some of the yearly data by country. Not all countries had dat
    - Final iteration used RandomForestRegressor as a non-linear regression analysis of the data, which led to positive results
 
 ## Visualizations Created
-- Link to tableau files: https://public.tableau.com/app/profile/amy.baker6569/viz/Project4_16861804758910/Averageinfantmortalityratein2000internationally?publish=yes
+- Link to tableau files: https://public.tableau.com/app/profile/amy.baker6569/viz/Project4_16861804758910/InternationalpopulationcoveredbyinsuranceandthepercentageofHealthExpenditureincountrysGDP?publish=yes
 
 ## Contributing Members
 Amy Baker, Lexie Fallow, Alkida Frroku, Tyler Fowler, Tymber Hamilton
