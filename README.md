@@ -18,7 +18,7 @@ For this analysis we looked to use machine learning to understand the significan
 - SQL
 
 ## Limitations
-
+Inconsistencies in some of the yearly data by country. Not all countries had data for the timeframe we selected to identify (2000-2018).
 
 ## Overview of Steps Taken
 - Preprocessing the Data
