@@ -21,13 +21,13 @@
 
 ## Overview of Steps Taken
 - Preprocessing the Data
- - Cleaned the data by dropping any null values and unnecessary columns from the original datasets
- - Using SQL, creating tables for each dataset and joining all tables together to use for modeling
+   - Cleaned the data by dropping any null values and unnecessary columns from the original datasets
+   - Using SQL, creating tables for each dataset and joining all tables together to use for modeling
 
 - Modeling/Optimizing the Data 
- - Went through several iterations of modeling in order to create a predictive model that had high statistical significance
- - Initial iteration used Linear Regression to understand if we could accurately extrapolate our data, but the data was not conducive to linear regression
- - Final iteration used RandomForestRegressor as a non-linear regression analysis of the data, which led to positive results
+   - Went through several iterations of modeling in order to create a predictive model that had high statistical significance
+   - Initial iteration used Linear Regression to understand if we could accurately extrapolate our data, but the data was not conducive to linear regression
+   - Final iteration used RandomForestRegressor as a non-linear regression analysis of the data, which led to positive results
 
 ## Visualizations Created
 - Link to tableau files: https://public.tableau.com/app/profile/amy.baker6569/viz/Project4_16861804758910/Averageinfantmortalityratein2000internationally?publish=yes
