@@ -3,6 +3,7 @@
 -- Project Status: Completed
 
 ## Project Objective
+For this analysis we looked to use machine learning to understand the significance between a country's wealth, healthcare expenditure, and percent of government subsidized healthcare against a country's infant mortality rate. By using Kaggle's "Financing Health" datasets, we were looking to accurately predict if a country's infant mortality rate would be high or low.
 
 ### Methods Used
 - Data Visualizations
