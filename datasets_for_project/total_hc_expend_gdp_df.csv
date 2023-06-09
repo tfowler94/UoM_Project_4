@@ -1,4 +1,4 @@
-,Entity,Code,Year_3,Indicator:Current health expenditure (CHE) as percentage of gross domestic product (GDP) (%)
+,Entity,Code,Year,Indicator:Current health expenditure (CHE) as percentage of gross domestic product (GDP) (%)
 0,Afghanistan,AFG,2002,9.44
 1,Afghanistan,AFG,2003,8.94
 2,Afghanistan,AFG,2004,9.81
@@ -17,6 +17,26 @@
 15,Afghanistan,AFG,2017,12.62
 16,Afghanistan,AFG,2018,14.13
 17,Afghanistan,AFG,2019,13.24
+18,Africa,,2000,4.75
+19,Africa,,2001,4.89
+20,Africa,,2002,4.96
+21,Africa,,2003,5.2
+22,Africa,,2004,5.45
+23,Africa,,2005,5.4
+24,Africa,,2006,5.37
+25,Africa,,2007,5.37
+26,Africa,,2008,5.23
+27,Africa,,2009,5.47
+28,Africa,,2010,5.48
+29,Africa,,2011,5.41
+30,Africa,,2012,5.24
+31,Africa,,2013,5.42
+32,Africa,,2014,5.6
+33,Africa,,2015,5.63
+34,Africa,,2016,5.62
+35,Africa,,2017,5.48
+36,Africa,,2018,5.48
+37,Africa,,2019,5.33
 38,Albania,ALB,2000,7.23
 39,Albania,ALB,2001,7.14
 40,Albania,ALB,2002,6.91
@@ -56,6 +76,26 @@
 74,Algeria,DZA,2017,6.28
 75,Algeria,DZA,2018,6.16
 76,Algeria,DZA,2019,6.24
+77,Americas,,2000,5.87
+78,Americas,,2001,5.95
+79,Americas,,2002,6.07
+80,Americas,,2003,6.08
+81,Americas,,2004,6.03
+82,Americas,,2005,6.05
+83,Americas,,2006,6.11
+84,Americas,,2007,6.27
+85,Americas,,2008,6.37
+86,Americas,,2009,6.79
+87,Americas,,2010,6.72
+88,Americas,,2011,6.75
+89,Americas,,2012,6.71
+90,Americas,,2013,6.7
+91,Americas,,2014,6.79
+92,Americas,,2015,6.92
+93,Americas,,2016,6.97
+94,Americas,,2017,7.02
+95,Americas,,2018,7.09
+96,Americas,,2019,7.2
 97,Andorra,AND,2000,5.96
 98,Andorra,AND,2001,5.87
 99,Andorra,AND,2002,6.1
@@ -1016,6 +1056,26 @@
 1054,Dominican Republic,DOM,2017,5.83
 1055,Dominican Republic,DOM,2018,5.73
 1056,Dominican Republic,DOM,2019,5.93
+1057,Eastern Mediterranean,,2000,4.34
+1058,Eastern Mediterranean,,2001,4.54
+1059,Eastern Mediterranean,,2002,4.83
+1060,Eastern Mediterranean,,2003,4.76
+1061,Eastern Mediterranean,,2004,4.6
+1062,Eastern Mediterranean,,2005,4.37
+1063,Eastern Mediterranean,,2006,4.43
+1064,Eastern Mediterranean,,2007,4.5
+1065,Eastern Mediterranean,,2008,4.41
+1066,Eastern Mediterranean,,2009,4.93
+1067,Eastern Mediterranean,,2010,4.57
+1068,Eastern Mediterranean,,2011,4.69
+1069,Eastern Mediterranean,,2012,4.6
+1070,Eastern Mediterranean,,2013,4.8
+1071,Eastern Mediterranean,,2014,4.96
+1072,Eastern Mediterranean,,2015,5.34
+1073,Eastern Mediterranean,,2016,5.52
+1074,Eastern Mediterranean,,2017,5.69
+1075,Eastern Mediterranean,,2018,5.66
+1076,Eastern Mediterranean,,2019,5.52
 1077,Ecuador,ECU,2000,3.33
 1078,Ecuador,ECU,2001,3.75
 1079,Ecuador,ECU,2002,4.47
@@ -1176,6 +1236,26 @@
 1234,Ethiopia,ETH,2017,3.45
 1235,Ethiopia,ETH,2018,3.31
 1236,Ethiopia,ETH,2019,3.24
+1237,Europe,,2000,6.45
+1238,Europe,,2001,6.62
+1239,Europe,,2002,6.88
+1240,Europe,,2003,7.08
+1241,Europe,,2004,7.15
+1242,Europe,,2005,7.19
+1243,Europe,,2006,7.08
+1244,Europe,,2007,6.95
+1245,Europe,,2008,7.17
+1246,Europe,,2009,7.73
+1247,Europe,,2010,7.62
+1248,Europe,,2011,7.5
+1249,Europe,,2012,7.63
+1250,Europe,,2013,7.66
+1251,Europe,,2014,7.62
+1252,Europe,,2015,7.61
+1253,Europe,,2016,7.61
+1254,Europe,,2017,7.54
+1255,Europe,,2018,7.51
+1256,Europe,,2019,7.63
 1257,Fiji,FJI,2000,3.42
 1258,Fiji,FJI,2001,2.91
 1259,Fiji,FJI,2002,2.98
@@ -1476,6 +1556,26 @@
 1554,Haiti,HTI,2017,4.79
 1555,Haiti,HTI,2018,4.57
 1556,Haiti,HTI,2019,4.73
+1557,High-income,,2000,6.37
+1558,High-income,,2001,6.98
+1559,High-income,,2002,6.67
+1560,High-income,,2003,6.76
+1561,High-income,,2004,6.82
+1562,High-income,,2005,6.77
+1563,High-income,,2006,7.34
+1564,High-income,,2007,7.08
+1565,High-income,,2008,7.25
+1566,High-income,,2009,7.76
+1567,High-income,,2010,7.53
+1568,High-income,,2011,7.47
+1569,High-income,,2012,7.4
+1570,High-income,,2013,7.43
+1571,High-income,,2014,7.48
+1572,High-income,,2015,7.59
+1573,High-income,,2016,7.64
+1574,High-income,,2017,7.65
+1575,High-income,,2018,7.57
+1576,High-income,,2019,7.69
 1577,Honduras,HND,2000,6.27
 1578,Honduras,HND,2001,5.93
 1579,Honduras,HND,2002,6.24
@@ -1965,6 +2065,46 @@
 2063,Lithuania,LTU,2017,6.48
 2064,Lithuania,LTU,2018,6.53
 2065,Lithuania,LTU,2019,7.01
+2066,Low-income,,2000,4.68
+2067,Low-income,,2001,4.64
+2068,Low-income,,2002,5.0
+2069,Low-income,,2003,5.23
+2070,Low-income,,2004,5.72
+2071,Low-income,,2005,5.8
+2072,Low-income,,2006,5.91
+2073,Low-income,,2007,5.99
+2074,Low-income,,2008,5.81
+2075,Low-income,,2009,6.03
+2076,Low-income,,2010,5.85
+2077,Low-income,,2011,5.87
+2078,Low-income,,2012,5.58
+2079,Low-income,,2013,5.96
+2080,Low-income,,2014,6.39
+2081,Low-income,,2015,6.49
+2082,Low-income,,2016,6.56
+2083,Low-income,,2017,6.34
+2084,Low-income,,2018,6.29
+2085,Low-income,,2019,6.01
+2086,Lower-middle-income,,2000,4.6
+2087,Lower-middle-income,,2001,4.94
+2088,Lower-middle-income,,2002,5.04
+2089,Lower-middle-income,,2003,5.07
+2090,Lower-middle-income,,2004,5.21
+2091,Lower-middle-income,,2005,5.34
+2092,Lower-middle-income,,2006,5.16
+2093,Lower-middle-income,,2007,5.06
+2094,Lower-middle-income,,2008,5.11
+2095,Lower-middle-income,,2009,5.42
+2096,Lower-middle-income,,2010,5.29
+2097,Lower-middle-income,,2011,5.19
+2098,Lower-middle-income,,2012,5.22
+2099,Lower-middle-income,,2013,5.36
+2100,Lower-middle-income,,2014,5.26
+2101,Lower-middle-income,,2015,5.22
+2102,Lower-middle-income,,2016,5.17
+2103,Lower-middle-income,,2017,5.09
+2104,Lower-middle-income,,2018,5.12
+2105,Lower-middle-income,,2019,5.08
 2106,Luxembourg,LUX,2000,5.9
 2107,Luxembourg,LUX,2001,6.41
 2108,Luxembourg,LUX,2002,6.74
@@ -3177,6 +3317,26 @@
 3315,South Sudan,SSD,2017,8.24
 3316,South Sudan,SSD,2018,6.28
 3317,South Sudan,SSD,2019,6.04
+3318,South-east Asia,,2000,3.62
+3319,South-east Asia,,2001,3.87
+3320,South-east Asia,,2002,3.99
+3321,South-east Asia,,2003,3.56
+3322,South-east Asia,,2004,3.84
+3323,South-east Asia,,2005,4.04
+3324,South-east Asia,,2006,4.0
+3325,South-east Asia,,2007,3.98
+3326,South-east Asia,,2008,4.37
+3327,South-east Asia,,2009,4.35
+3328,South-east Asia,,2010,4.08
+3329,South-east Asia,,2011,4.07
+3330,South-east Asia,,2012,4.22
+3331,South-east Asia,,2013,4.48
+3332,South-east Asia,,2014,4.51
+3333,South-east Asia,,2015,4.78
+3334,South-east Asia,,2016,4.79
+3335,South-east Asia,,2017,4.48
+3336,South-east Asia,,2018,4.4
+3337,South-east Asia,,2019,4.42
 3338,Spain,ESP,2000,6.8
 3339,Spain,ESP,2001,6.77
 3340,Spain,ESP,2002,6.8
@@ -3627,6 +3787,26 @@
 3785,United States,USA,2017,16.81
 3786,United States,USA,2018,16.69
 3787,United States,USA,2019,16.77
+3788,Upper-middle-income,,2000,6.1
+3789,Upper-middle-income,,2001,6.04
+3790,Upper-middle-income,,2002,6.03
+3791,Upper-middle-income,,2003,5.95
+3792,Upper-middle-income,,2004,5.94
+3793,Upper-middle-income,,2005,5.99
+3794,Upper-middle-income,,2006,6.02
+3795,Upper-middle-income,,2007,5.94
+3796,Upper-middle-income,,2008,6.04
+3797,Upper-middle-income,,2009,6.36
+3798,Upper-middle-income,,2010,6.26
+3799,Upper-middle-income,,2011,6.24
+3800,Upper-middle-income,,2012,6.25
+3801,Upper-middle-income,,2013,6.34
+3802,Upper-middle-income,,2014,6.38
+3803,Upper-middle-income,,2015,6.56
+3804,Upper-middle-income,,2016,6.58
+3805,Upper-middle-income,,2017,6.58
+3806,Upper-middle-income,,2018,6.66
+3807,Upper-middle-income,,2019,6.9
 3808,Uruguay,URY,2000,9.21
 3809,Uruguay,URY,2001,9.8
 3810,Uruguay,URY,2002,9.68
@@ -3727,6 +3907,26 @@
 3905,Vietnam,VNM,2017,4.71
 3906,Vietnam,VNM,2018,5.03
 3907,Vietnam,VNM,2019,5.25
+3908,Western Pacific,,2000,6.67
+3909,Western Pacific,,2001,7.64
+3910,Western Pacific,,2002,6.41
+3911,Western Pacific,,2003,6.22
+3912,Western Pacific,,2004,6.58
+3913,Western Pacific,,2005,6.97
+3914,Western Pacific,,2006,8.26
+3915,Western Pacific,,2007,7.41
+3916,Western Pacific,,2008,7.51
+3917,Western Pacific,,2009,7.68
+3918,Western Pacific,,2010,7.2
+3919,Western Pacific,,2011,7.03
+3920,Western Pacific,,2012,6.7
+3921,Western Pacific,,2013,6.95
+3922,Western Pacific,,2014,6.9
+3923,Western Pacific,,2015,6.97
+3924,Western Pacific,,2016,6.89
+3925,Western Pacific,,2017,6.91
+3926,Western Pacific,,2018,6.93
+3927,Western Pacific,,2019,7.32
 3928,Yemen,YEM,2000,4.67
 3929,Yemen,YEM,2001,4.95
 3930,Yemen,YEM,2002,4.83
